@@ -1,0 +1,28 @@
+name: Aianyone
+favicon: null
+layout_spectrum: 0.5054531153291464
+typography_spectrum: 0.28944524261169136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.813829930499196
+  lightness: 0.3897120850160718
+  saturation: 0.685689021134749
+  rhythmicContrast: 0.9934205082245171
+purpose: []
